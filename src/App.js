@@ -1,9 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
 
 
 //normal importing 
-import Card from  "./Carding";
 import Carding from './Carding';
 
 function App() {
